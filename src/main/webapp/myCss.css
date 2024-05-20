@@ -1,0 +1,77 @@
+@charset "ISO-8859-1";
+
+#champTxt {
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+	align-items: center;
+}
+
+#elementCrud {
+	display: flex;
+	margin: 20px;
+	justify-content: center;
+	align-items: center;
+}
+
+
+button, label, input {
+	margin: 10px;
+}
+
+.btn-outline-light {
+	color: #212529;
+	border-color: #f8f9fa
+}
+
+#navbarsExampleDefault {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+#navBlockLeft {
+	width: 400px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	
+}
+
+#LabMenu {
+	padding-top: 19px;
+}
+
+#btnDeconnexion {
+	color: #cccecf;
+	background-color: #343a40;
+}
+
+#btnDeconnexion:hover {
+	color: #212529;
+	background-color: #f8f9fa;
+	border-color: #f8f9fa
+}
+
+#affichageBienvenue{
+	color: #cccecf;
+	margin: 9px;
+}
+
+#elementFiltre{
+	margin : 50px;
+	display : flex;
+	margin-left: 300px;
+	margin-right: 300px;
+	justify-content: space-around;
+	align-items: center;
+	
+}
+
+.groupLabListBtn{
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
